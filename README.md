@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **keiruvent.cabili@gmail.com**
 
+- 📝 I regularly draw pixel arts on [https://lospec.com/kwiruu](https://lospec.com/kwiruu)
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/keiru-cabili-6944552a4/](https://www.linkedin.com/in/keiru-cabili-6944552a4/)
 
 - ⚡ Fun fact **I can't code**
