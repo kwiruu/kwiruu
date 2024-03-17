@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kwiruu/kwiruu/main/Sprite-0002.anim-export-1.gif" alt="pixel-kwiruu">
+<img src="[https://raw.githubusercontent.com/kwiruu/kwiruu/main/Sprite-0002.anim-export-1.gif](https://github.com/kwiruu/kwiruu/blob/main/Sprite-0002.anim-export-1-export.gif?raw=true)" alt="pixel-kwiruu">
 <h3 align="center">A Sophomore Computer Science Student in Cebu Institute of Technology - University</h3>
 <img align="right" alt="meme-frog" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*ZMikoPKSaRtvC8eM.">
 
