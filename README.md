@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/kwiruu/kwiruu/main/Sprite-0002.anim-export-1-expor-1t.gif" alt="pixel-kwiruuu">
 <h3 align="center">A Sophomore Computer Science Student in Cebu Institute of Technology - University</h3>
-<img align="right" width="300" src="https://raw.githubusercontent.com/kwiruu/kwiruu/main/guraaaa-export.gif" alt="pixel-kwiruuu">
 
 - 🔭 I’m currently working on [ChumCode(pls don't sue me)](https://github.com/kwiruu/ChumCode)
 
