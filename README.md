@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/kwiruu/kwiruu/main/Sprite-0002.anim-export-1-expor-1t.gif" alt="pixel-kwiruuu">
 <h3 align="center">A 3rd year Computer Science Student in Cebu Institute of Technology - University</h3>
 
-- 🔭 I’m currently working on **js-sneaks-mern-app**
+- 🔭 I’m currently working on **bitwiseui**
 
-- 🌱 I’m currently learning **Automata Theory and Formal Languages**
+- 🌱 I’m currently learning **NginX**
 
 - 💬 Ask me about **my gaps and mistakes**
 
