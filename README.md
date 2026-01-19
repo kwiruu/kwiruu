@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/keiru-cabili-6944552a4/](https://www.linkedin.com/in/keiru-cabili-6944552a4/)
 
-- ⚡ Fun fact **I can't code**
 <br>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/keiru.cabili) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kwiruu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keiru-cabili-6944552a4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/keirucabili) 
