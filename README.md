@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/kwiruu/kwiruu/main/Sprite-0002.anim-export-1-expor-1t.gif" alt="pixel-kwiruuu">
 <h3 align="center">Software Developer | Aspiring DevSecOps Engineer</h3>
 
-- 🔭 I’m currently working on **kwentamo**
+- 🔭 I’m currently working on **takicli**
 
-- 🌱 I’m currently learning **NginX**
+- 🌱 I’m currently learning **langchain**
 
 - 💬 Learn more about me on [www.keiru.dev](https://www.keiru.dev/)
 
